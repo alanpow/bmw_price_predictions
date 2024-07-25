@@ -6,7 +6,7 @@ I ran a number of regression models on the avaialable features in this data set,
 
 ## Project Structure
 
-bmw_price_predictions/
+bmw_price_predictions/  
 ├── source/  
 │ ├── app.py  
 │ ├── app_streamlit.py  
