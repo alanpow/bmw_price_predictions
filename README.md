@@ -7,23 +7,23 @@ I ran a number of regression models on the avaialable features in this data set,
 ## Project Structure
 
 bmw_price_predictions/
-├── source/
-│ ├── app.py
-│ ├── app_streamlit.py
-│ ├── ohe.pkl
-│ ├── poly.pkl
-│ ├── scaler.pkl
-│ ├── model.pkl
-│ ├── Dockerfile
-│ ├── requirements.txt
-│ ├── BMW_Price_EDA.ipynb
-│ ├── model_training_BAD.ipynb
-│ ├── model_training_GOOD.ipynb
-│ ├── modelling_engineering.ipynb
-│ ├── personal_expenditure_eda
-├── data/
-│ ├── bmw_pricing_challenge.csv
-│ ├── PCEC96.csv
+├── source/  
+│ ├── app.py  
+│ ├── app_streamlit.py  
+│ ├── ohe.pkl  
+│ ├── poly.pkl  
+│ ├── scaler.pkl  
+│ ├── model.pkl  
+│ ├── Dockerfile  
+│ ├── requirements.txt  
+│ ├── BMW_Price_EDA.ipynb  
+│ ├── model_training_BAD.ipynb  
+│ ├── model_training_GOOD.ipynb  
+│ ├── modelling_engineering.ipynb  
+│ ├── personal_expenditure_eda  
+├── data/  
+│ ├── bmw_pricing_challenge.csv  
+│ ├── PCEC96.csv  
 
 ## Components
 
